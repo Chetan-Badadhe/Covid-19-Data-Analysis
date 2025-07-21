@@ -57,6 +57,7 @@ The USA consistently leads in total cases (33.9%), active cases (50.2%), recover
 
 
 
+
 Technologies and Libraries Used:
 I used Python throughout the project. To merge the monthly files, I used the os library, then performed all the data cleaning and transformations with pandas. For calculating totals and other stats, I used NumPy. And to present insights visually, I built charts using matplotlib and seaborn.
 While working on the project, I faced a few challenges, like merging large files efficiently and visualizing some complex patterns. So, I referred to documentation, used Google, and even took some help from ChatGPT to understand certain techniques better. It helped me speed up my learning and apply best practices.
