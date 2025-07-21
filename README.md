@@ -37,6 +37,7 @@ Growth Pattern:The growth starts very slowly in early 2020 (February to March).F
 Magnitude: Compared to the other variables (like Confirmed or Recovered), the total number of deaths is significantly lower, as seen by its relatively flatter curve.
 
 3] Find 20 most countries by ratio of tests.
+
 <img width="700" height="360" alt="newplot (6)" src="https://github.com/user-attachments/assets/1c00103a-acf1-4c30-9cc3-e0417c8eaf0d" />.
 
 Mexico and Bangladesh have highest population-to-test ratios, indicating poor testing. USA, Russia show strong testing coverage. Others vary moderately.
@@ -53,6 +54,8 @@ USA and Brazil lead in total COVID-19 cases. India follows. Most countries show 
 <img width="700" height="360" alt="newplot (11)" src="https://github.com/user-attachments/assets/01856a56-be32-4f37-b24f-2b85eadbd0df" />.
 
 The USA consistently leads in total cases (33.9%), active cases (50.2%), recoveries (28.2%), and deaths (31%). Brazil and India follow across all categories. Mexico and Russia also rank high in deaths and total cases. Recovery rates vary, while active case proportions remain highest in the USA, showing ongoing infection spread.
+
+
 
 Technologies and Libraries Used:
 I used Python throughout the project. To merge the monthly files, I used the os library, then performed all the data cleaning and transformations with pandas. For calculating totals and other stats, I used NumPy. And to present insights visually, I built charts using matplotlib and seaborn.
