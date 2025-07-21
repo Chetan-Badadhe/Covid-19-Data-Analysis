@@ -31,7 +31,9 @@ Goal:
 <img width="700" height="360" alt="newplot (5)" src="https://github.com/user-attachments/assets/c841d4cf-7faf-4d6a-9ce3-3f861687e75e" />
 
 Overall Trend: The number of confirmed deaths is steadily increasing over time.
+
 Growth Pattern:The growth starts very slowly in early 2020 (February to March).From around April 2020 onward, the number of deaths rises more sharply.The curve continues to grow at a nearly linear to slightly exponential rate through to July 2020.
+
 Magnitude: Compared to the other variables (like Confirmed or Recovered), the total number of deaths is significantly lower, as seen by its relatively flatter curve.
 
 
