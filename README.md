@@ -12,7 +12,7 @@ Dataset Information:
 Goal:
 1. Which Country has maximum Total cases, Deaths, Recovered & active cases.
 2. what is the trend of Confirmed Deaths Recovered Active cases.
-3. find 20 most effected countries.
+3. Find 20 most countries by ratio of tests.
 4. 20 countries that are badly affected by corona.
 5. Pie Chart Representation of stats of worst affected countries.
 
@@ -36,8 +36,8 @@ Growth Pattern:The growth starts very slowly in early 2020 (February to March).F
 
 Magnitude: Compared to the other variables (like Confirmed or Recovered), the total number of deaths is significantly lower, as seen by its relatively flatter curve.
 
-3] Find 20 most effected countries.
-<img width="700" height="360" alt="newplot (6)" src="https://github.com/user-attachments/assets/909d751b-90d9-42ce-bb9f-01eb202a33f4" />.
+3] Find 20 most countries by ratio of tests.
+<img width="700" height="360" alt="newplot (6)" src="https://github.com/user-attachments/assets/1c00103a-acf1-4c30-9cc3-e0417c8eaf0d" />.
 
 Mexico and Bangladesh have highest population-to-test ratios, indicating poor testing. USA, Russia show strong testing coverage. Others vary moderately.
 
